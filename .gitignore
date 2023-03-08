@@ -6,3 +6,7 @@ node_modules
 
 # npm run build is creating a directory called lib
 lib
+
+#this is from Section 9 of the course
+maps/.parcel-cache
+maps/dist
