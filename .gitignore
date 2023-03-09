@@ -10,3 +10,9 @@ lib
 #this is from Section 9 of the course
 maps/.parcel-cache
 maps/dist
+
+
+#this is from Section 13 of the course
+web/.cache
+web/build
+web/dist
