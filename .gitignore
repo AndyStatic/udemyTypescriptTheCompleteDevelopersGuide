@@ -16,3 +16,7 @@ maps/dist
 web/.cache
 web/build
 web/dist
+
+#this is from Section 14 of the course
+server/.cache
+server/build

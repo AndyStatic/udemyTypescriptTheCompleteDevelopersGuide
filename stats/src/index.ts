@@ -10,7 +10,7 @@ Update package.json with
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:build": "tsc -w",
     "start:run": "nodemon build/index.js",
-    "start": "concurrently npm:start*"
+    "start": "concurrently npm:start:*"
   },
 
   npm start
